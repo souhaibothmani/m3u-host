@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein4" group-title="Sport", Bein 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://ah.yalla1shoot.xyz/
-https://ah.yalla1shoot.xyz/bein4/tracks-v1a1/mono.ts.m3u8?token=62f115bdf062c4fb29a02b867bee667258c7c55c-0f54-1758049800-1758049500&v=1758049500|User-Agent=Mozilla/5.0&Referer=https://ah.yalla1shoot.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bvggj.yallashootlivetv.com/
+#EXTVLCOPT:http-origin=https://bvggj.yallashootlivetv.com/
+https://ah.yalla1shoot.xyz/bein4/tracks-v1a1/mono.ts.m3u8?token=62f115bdf062c4fb29a02b867bee667258c7c55c-0f54-1758049800-1758049500&v=1758049500|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://bvggj.yallashootlivetv.com/&Origin=https://bvggj.yallashootlivetv.com/
